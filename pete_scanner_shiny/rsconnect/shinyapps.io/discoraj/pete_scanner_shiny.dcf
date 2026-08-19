@@ -1,0 +1,13 @@
+name: pete_scanner_shiny
+title: pete_scanner_shiny
+username: discoraj
+account: discoraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13594686
+bundleId: 9784355
+url: https://discoraj.shinyapps.io/pete_scanner_shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: old
